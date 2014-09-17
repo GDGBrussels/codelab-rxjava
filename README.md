@@ -1,4 +1,5 @@
-dojos
+RxJava CodeLab
 =====
 
-This is where the Novoda team do all their hacking
+Do the exercises described in RxJavaBasics!
+
