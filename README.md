@@ -1,4 +1,4 @@
-dojos
+RxJava CodeLab
 =====
 
-This is where the Novoda team do all their hacking
+Checkout the branches first_stage, second_stage, third_stage, finished
